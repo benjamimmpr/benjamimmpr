@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Benjamim 
+🎓 Estudante do 9.° ano do Farias Brito | Medalhista em olimpíadas científicas  
+💻 Interessado em computação, jogos e desenvolvimento de software  
+🌍 Inglês C2 | Experiência internacional em Londres
 
 <!--
 **benjamimmpr/benjamimmpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
