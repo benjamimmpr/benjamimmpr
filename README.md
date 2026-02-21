@@ -1,5 +1,5 @@
 ## 👋 Olá! Eu sou o Benjamim 
-🎓 Estudante do 9.° ano do Farias Brito | Medalhista em olimpíadas científicas  
+🎓 Estudante do 1.° ano do Ensino Médio do Farias Brito | Medalhista em olimpíadas científicas  
 💻 Interessado em computação, jogos e desenvolvimento de software  
 🌍 Inglês C2 | Experiência internacional em Londres
 
