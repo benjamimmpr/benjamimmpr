@@ -3,6 +3,11 @@
 💻 Interessado em computação, jogos e desenvolvimento de software  
 🌍 Inglês C2 | Experiência internacional em Londres
 
+## 👋 'Sup! The name's Benjamim!
+🎓 Currently in 10th grade at Farias Brito School | Scientific olympic medals collector 
+💻 I'm interested in computer science, games and software designing  
+🌍 C2 English | International experience in London
+
 <!--
 **benjamimmpr/benjamimmpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
